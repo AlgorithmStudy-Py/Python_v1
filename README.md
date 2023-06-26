@@ -4,8 +4,8 @@
 
 ### 😉 Team Members
 
-[배정연]  jungyeons  
-[임성민]  sm9home
+- jungyeons  (정연)
+- sm9home    (성민)
 
 ### ✏ Commit Message Rules
 
